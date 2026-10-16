@@ -25,7 +25,5 @@ Computer Science Student
 
 ###  GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tbnuwu&show_icons=true&theme=radial" alt="tbnuwu's github stats" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tbnuwu&theme=radial" alt="tbnuwu's streak" />
 </p>

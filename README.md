@@ -1,4 +1,4 @@
-# Hi there, I'm Vinh! 👋
+# Hi there, I'm Vinh!
 
 Computer Science Student
 
